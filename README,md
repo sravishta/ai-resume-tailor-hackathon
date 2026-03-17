@@ -1,0 +1,27 @@
+# AI Resume & Portfolio Generation Platform
+
+## 🔗 Live Demo
+
+[Click here to view project]https://ai-resume-hackathon.lovable.app
+
+## 📌 Project Description
+
+This is an AI-powered platform that helps users:
+
+* Generate professional resumes
+* Create personal portfolio websites
+* Practice mock interviews
+
+## 🚀 Features
+
+* Resume Builder
+* Portfolio Generator
+* Mock Interview System
+* Dashboard Navigation
+* Light/Dark Mode UI
+
+## 🛠️ Tech Used
+
+* React (via AI tool)
+* Tailwind CSS
+* Deployed using Lovable AI
